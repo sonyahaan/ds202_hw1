@@ -1,0 +1,19 @@
+---
+title: "Homework #1"
+author: "Sonya Haan; sonyahaan"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I consider Data Science to be a cycle of obtaining, cleaning, processing, and analyzing data. This data can then be used to make predictions such as done in machine learning. The following image from Berkeley illustates the **data life cycle**: <https://cdn3.datascience.berkeley.edu/content/0be56de3069740669fe2d696fb60220e/DataScienceLifeCycle.jpg>.
+
+An example of data science in action is the science behind music suggestions from streaming services like Spotify. Spotify uses the data it collects about your listening history to recommend new music to you.
+
+
+```{r version}
+version
+```
+
