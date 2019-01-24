@@ -1,0 +1,16 @@
+---
+title: "partner.Rmd"
+output: html_document
+---
+partner's name: Sonya Haan
+partner's github username: sonyahaan
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Partner added the Rmd and html files
+commit id: ca4c34a32a1556594a9dc5a820d195f7c4955f6f
+Did not get any errors
+Getting the commit id through the terminal of the other computer
+## R Markdown
+
